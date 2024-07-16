@@ -1,2 +1,3 @@
-res://Assets/the thing.tres
 res://level_1.tscn
+res://Assets/the thing.tres
+res://Scripts/Player Script.gd
