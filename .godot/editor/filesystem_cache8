@@ -1,9 +1,0 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721098941
-::res://Assets/::1721100145
-icon.png::CompressedTexture2D::6848090355706267541::1721098335::1721098942::1::::<><>::
-player.png::CompressedTexture2D::1445015593919171777::1721100145::1721100153::1::::<><>::
-the sickest sprite sheet.png::CompressedTexture2D::1503854749559265253::1721098524::1721098940::1::::<><>::
-the thing.tres::TileSet::5147025171223464992::1721098686::0::1::::<><>::uid://crlwi2b8t22yd::::res://the sickest sprite sheet.png<>uid://bat21mcmix3gp::::res://border.tscn<>uid://dqj82bcygc871::::res://ceiling.tscn<>uid://cautx3p4rswfo::::res://ceilingthing2.tscn
-::res://Scripts/::1721098970
-Player Script.gd::GDScript::-1::1721098970::0::1::::<>CharacterBody2D<>::
